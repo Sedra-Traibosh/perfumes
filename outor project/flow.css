@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(212, 141, 180);
+}
+
+.parfum{
+    display: flex;
+    margin: 47px auto;
+    background-color:rgb(247, 184, 253);
+    width: 646px;
+    height: 495px;
+}
+
+.flower{
+    background-image: url(Flower.jpg);
+    background-size: auto;
+    background-position: center;
+    width: 50%;
+    
+}
+.gabrielle{
+    padding: 20px;
+    width: 50%;
+}
+.para{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 1px;
+word-wrap: wrap;
+
+}
+
+.price{
+    display: flex;
+    color: cadetblue;
+    font-style: italic;
+    
+}
+
+
+.boton{
+    background-color: cadetblue ;
+}
